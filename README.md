@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay SIngh Shekhawat</h1>
+<h1 align="center">Hi 👋, I'm Ajay Singh Shekhawat</h1>
 <br>
 
 ![logo](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
