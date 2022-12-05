@@ -45,10 +45,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
-<a href="https://www.linkedin.com/in/ajay-singh-shekhawat-074724117/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ajay-singh-shekhawat-074724117" height="50" width="50"  /></a>
+<a style="margin: 150px;" href="https://www.linkedin.com/in/ajay-singh-shekhawat-074724117/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ajay-singh-shekhawat-074724117" height="50" width="40"  /></a>
+    
 <a href="https://instagram.com/Singhajay470" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Singhajay470" height="50" width="50" style="margin: 20px;" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Singhajay470" height="50" width="40"  /></a>
 </p>
 <!-- <a href="https://Ajay470.github.io/" target="blank><img  align="center" src ="https://github.com/Ajay470/Ajay470/blob/main/portfolio1.png"alt="Singhajay470" height="50" width="50"></a>
 </p> -->
